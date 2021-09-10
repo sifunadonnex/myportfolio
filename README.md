@@ -6,7 +6,7 @@ This is an easy-to-customize personal portfolio template that was created with H
 
 # 👇Demo
 
-<a href="https://personalportfoliov1.netlify.app/">LINK</a>
+<a href="https://sifunaportfolio.vercel.app/">LINK</a>
 
 # 📋Features
 
@@ -31,17 +31,17 @@ You can clone or fork this repo as a theme for your portfolio site. Because it d
 - Fork and Clone the repository
 
 ```
-https://github.com/devpuskar/Personal-Portfolio-v1.git
+https://sifunaportfolio.vercel.app/
 ```
 
 - Go inside the main repository
 
 ```
-$ cd Personal-Portfolio-v1
+$ cd myportfolio
 ```
 
 - Modify `index.html` to change the names and links to point at your pages.
 
-- Upload your resume in the place of `resume.pdf`
+- Upload your resume in the place 
 
 # #🚀HappyCoding
