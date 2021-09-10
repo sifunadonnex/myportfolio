@@ -1,6 +1,29 @@
 .contact {
   padding: 100px 15px;
-}
+  background-color: rgb(236, 241, 250);
+  animation: 10000ms ease-in-out infinite color-change;
+}  
+  @keyframes color-change {
+    0% {
+      background-color: rgb(236, 241, 250);
+    }
+    20% {
+      background-color: rgb(184, 221, 238);
+    }
+    40% {
+      background-color: rgb(92, 205, 205);
+    }
+    60% {
+      background-color: rgb(229, 194, 229);
+    }
+    80% {
+      background-color: rgba(84, 180, 167, 0.747);
+    }
+    100% {
+      background-color: rgb(142, 150, 192);
+    }
+  }
+
 
 .contact .row .title h1::before {
   left: 30%;

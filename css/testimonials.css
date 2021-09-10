@@ -1,9 +1,8 @@
-body {
-    margin: 0;
-    font-family: "Montserrat", sans-serif;
-    background-color: rgb(236, 241, 250);
-    animation: 10000ms ease-in-out infinite color-change;
-  }
+.testimonials {
+  padding: 100px 0px;
+  background-color: rgb(236, 241, 250);
+  animation: 10000ms ease-in-out infinite color-change;
+}
   
   @keyframes color-change {
     0% {
@@ -25,9 +24,6 @@ body {
       background-color: rgb(142, 150, 192);
     }
   }
-.testimonials {
-    padding: 100px 0px;
-}
 
 .testimonials .title h1::before {
     left: 30%;
