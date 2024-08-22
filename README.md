@@ -2,7 +2,7 @@
 
 #### A clean, beautiful and responsive portfolio!
 
-This is an easy-to-customize personal portfolio template that was created with HTML, CSS, and JavaScript. It is a lightweight and fully responsive, as well as comes with the p grid system and loaded with Font Awesome. Alternatively, you can edit styles, colors, and scripts fairly easily.
+This is an easy-to-customize personal portfolio template that was created with Next JS. It is a lightweight and fully responsive, as well as comes with the p grid system and loaded with Font Awesome. Alternatively, you can edit styles, colors, and scripts fairly easily.
 
 # 👇Demo
 
@@ -11,16 +11,16 @@ This is an easy-to-customize personal portfolio template that was created with H
 # 📋Features
 
 - About me
-- Services
+- Resume
 - Portfolio
 - Blog
 - Contact
 
 # 🛠️Technologies used
 
-- HTML5
-- CSS3
-- JavaScript
+- React
+- Framer
+- Next Js
 
 # 🤟If you like it
 
@@ -40,8 +40,8 @@ https://sifunaportfolio.vercel.app/
 $ cd myportfolio
 ```
 
-- Modify `index.html` to change the names and links to point at your pages.
+- Modify all relevant files to change the names and links to point at your pages.
 
-- Upload your resume in the place 
+- Deploy freely to Vercel or Netlify
 
 # #🚀HappyCoding
