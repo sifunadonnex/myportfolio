@@ -70,6 +70,28 @@ function Education() {
             <SwiperSlide>
               <div className="item">
                 <div className="cont">
+                  <h6 className="sub-title mb-15">Digital Marketing </h6>
+                  <div className="text">
+                    <p>
+                    Completed a digital marketing masterclass at Digital4Africa, gaining comprehensive skills in digital strategy, marketing techniques, and campaign management
+                    </p>
+                  </div>
+                </div>
+                <div className="info">
+                  <div className="d-flex align-items-center">
+                    <div className="ml-20">
+                      <h6 className="fz-18">Digital 4 Africa</h6>
+                      <span className="p-color opacity-8 fz-15 mt-5">
+                        2024
+                      </span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </SwiperSlide>
+            <SwiperSlide>
+              <div className="item">
+                <div className="cont">
                   <h6 className="sub-title mb-15">Computer Science</h6>
                   <div className="text">
                     <p>
