@@ -7,7 +7,7 @@ function Services() {
         <div className="sec-head mb-80">
           <div className="d-flex align-items-center">
             <div>
-              <span className="sub-title main-color mb-5">Our Specialize</span>
+              <span className="sub-title main-color mb-5">What I Do</span>
               <h3 className="fw-600 fz-50 text-u d-rotate wow">
                 <span className="rotate-text">
                   Featured <span className="fw-200">Services.</span>
@@ -38,7 +38,7 @@ function Services() {
                   <span className="tag">Development</span>
                 </div>
                 <p>
-                  We always ensure that it combines a clean and beautiful visual
+                  I always ensure that it combines a clean and beautiful visual
                   design.
                 </p>
               </div>
@@ -80,7 +80,7 @@ function Services() {
                   <span className="tag">Development</span>
                 </div>
                 <p>
-                  We always ensure that it combines a clean and beautiful visual
+                  I always ensure that it combines a clean and beautiful visual
                   design.
                 </p>
               </div>

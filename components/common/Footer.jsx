@@ -19,7 +19,7 @@ function Footer() {
               <h6 className="mt-30 mb-15">
                 <a href="mailto:sifunadonnex@gmail.com">sifunadonnex@gmail.com</a>
               </h6>
-              <a href="tel:254748144559" className="underline">
+              <a href="tel:0748144559" className="underline">
                 <span className="fz-22 main-color">+254 748 144 559</span>
               </a>
             </div>
