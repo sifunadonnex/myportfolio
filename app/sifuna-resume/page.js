@@ -42,7 +42,7 @@ export default function Home() {
             <Intro />
             {/* <Numbers /> */}
             <Services />
-            <Clients />
+            {/* <Clients /> */}
             <Marq2 />
           </main>
           <Footer />

@@ -48,7 +48,7 @@ function Services() {
             <div className="col-lg-4">
               <div className="img fit-img">
                 <img src="/assets/imgs/serv-img/1.jpg" alt="" />
-                <a href="/page-services-details">
+                <a href="https://theblackbox.co.ke/">
                   <span className="ti-arrow-top-right"></span>
                 </a>
               </div>
@@ -78,7 +78,7 @@ function Services() {
             <div className="col-lg-4">
               <div className="img fit-img">
                 <img src="/assets/imgs/serv-img/2.jpg" alt="" />
-                <a href="/page-services-details">
+                <a href="https://m.facebook.com/p/Macangira-Africa-100083111029784/">
                   <span className="ti-arrow-top-right"></span>
                 </a>
               </div>
@@ -108,7 +108,7 @@ function Services() {
             <div className="col-lg-4">
               <div className="img fit-img">
                 <img src="/assets/imgs/serv-img/3.jpg" alt="" />
-                <a href="/page-services-details">
+                <a href="https://www.facebook.com/alvicreativ/">
                   <span className="ti-arrow-top-right"></span>
                 </a>
               </div>
