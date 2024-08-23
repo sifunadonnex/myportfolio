@@ -136,7 +136,7 @@ function Education() {
             <SwiperSlide>
               <div className="item">
                 <div className="cont">
-                  <h6 className="sub-title mb-15">Design Quality</h6>
+                  <h6 className="sub-title mb-15">High School</h6>
                   <div className="text">
                     <p>
                     Achieved an A- at Goseta Boys High School, showcasing a strong academic foundation and dedication to excellence.
