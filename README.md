@@ -31,7 +31,7 @@ You can clone or fork this repo as a theme for your portfolio site. Because it d
 - Fork and Clone the repository
 
 ```
-https://sifunaportfolio.vercel.app/
+https://github.com/sifunadonnex/myportfolio
 ```
 
 - Go inside the main repository
