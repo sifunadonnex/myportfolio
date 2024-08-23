@@ -7,7 +7,7 @@ import Footer from '@/components/common/Footer';
 import Marq2 from '@/components/common/Marq2';
 import Navbar from '@/components/common/Navbar';
 import Script from 'next/script';
-import Clients from '@/components/common/Clients';
+import Education from '@/components/common/Education';
 import Header from '@/components/page-about/Header';
 import Intro from '@/components/page-about/Intro';
 import Numbers from '@/components/page-about/Numbers';
@@ -42,7 +42,7 @@ export default function Home() {
             <Intro />
             {/* <Numbers /> */}
             <Services />
-            {/* <Clients /> */}
+            <Education />
             <Marq2 />
           </main>
           <Footer />
