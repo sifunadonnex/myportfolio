@@ -23,20 +23,17 @@ function Intro() {
           <div className="col-lg-6 valign">
             <div className="cont">
               <h3 className="mb-30">
-                Wfolio is a full-service{' '}
-                <span className="fw-200">creative studio</span> creating
+                Sifuna Donnex is a Developer{' '}
+                <span className="fw-200">and Designer</span> creating
                 beautiful <span className="fw-200">digital experiences</span> &
                 products.
               </h3>
               <p>
-                Our design services starts and ends with a best-in-class
-                experience strategy that builds brands. Open an online store and
-                become an international seller. Your customers will enjoy
-                shopping online!
+              My web development and design services are driven by a strategic approach that elevates brands. I create and optimize online stores, helping businesses expand globally while ensuring a seamless and enjoyable customer experience.
               </p>
-              <a href="/page-services" className="underline main-color mt-40">
+              <a href="/sifuna-portfolio" className="underline main-color mt-40">
                 <span className="text">
-                  Our Services <i className="ti-arrow-top-right"></i>
+                  My Works <i className="ti-arrow-top-right"></i>
                 </span>
               </a>
             </div>

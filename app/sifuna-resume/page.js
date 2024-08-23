@@ -40,7 +40,7 @@ export default function Home() {
           <main className="main-bg o-hidden">
             <Header />
             <Intro />
-            <Numbers />
+            {/* <Numbers /> */}
             <Services />
             <Clients />
             <Marq2 />
