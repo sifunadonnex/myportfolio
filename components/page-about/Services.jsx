@@ -7,14 +7,14 @@ function Services() {
         <div className="sec-head mb-80">
           <div className="d-flex align-items-center">
             <div>
-              <span className="sub-title main-color mb-5">Our Specialize</span>
+              <span className="sub-title main-color mb-5">Where I have Worked</span>
               <h3 className="fw-600 fz-50 text-u d-rotate wow">
                 <span className="rotate-text">
-                  Featured <span className="fw-200">Services.</span>
+                  Work <span className="fw-200">Experience.</span>
                 </span>
               </h3>
             </div>
-            <div className="ml-auto vi-more">
+            {/* <div className="ml-auto vi-more">
               <a
                 href="/page-services"
                 className="butn butn-sm butn-bord radius-30"
@@ -22,7 +22,7 @@ function Services() {
                 <span>View All</span>
               </a>
               <span className="icon ti-arrow-top-right"></span>
-            </div>
+            </div> */}
           </div>
         </div>
         <div className="item">
@@ -31,9 +31,9 @@ function Services() {
               <div>
                 <span className="num">01</span>
                 <div>
-                  <span className="sub-title main-color mb-10">Web Design</span>
+                  <span className="sub-title main-color mb-10">BlackBOX FDS</span>
                   <h2>
-                    UI / UX <span className="fw-200">Design</span>
+                    IT <span className="fw-200">Support</span>
                   </h2>
                 </div>
               </div>
@@ -41,8 +41,7 @@ function Services() {
             <div className="col-lg-4">
               <div className="text md-mb80">
                 <p>
-                  We help our client suceed by creating identities, digital
-                  experiences, and printmaterials that communicate clearly
+                As an IT Support professional at Blackbox FDS, I not only provide technical assistance and troubleshoot issues but also create custom software solutions to streamline operations and improve system efficiency.
                 </p>
               </div>
             </div>
@@ -62,9 +61,9 @@ function Services() {
               <div>
                 <span className="num">02</span>
                 <div>
-                  <span className="sub-title main-color mb-10">Web Design</span>
+                  <span className="sub-title main-color mb-10">Intern- Web</span>
                   <h2>
-                    Brand <span className="fw-200">Strategy</span>
+                    Macangira <span className="fw-200">Africa</span>
                   </h2>
                 </div>
               </div>
@@ -72,8 +71,7 @@ function Services() {
             <div className="col-lg-4">
               <div className="text md-mb80">
                 <p>
-                  We help our client suceed by creating identities, digital
-                  experiences, and printmaterials that communicate clearly
+                During my internship at Macangira Africa, I developed web solutions that addressed business needs, enhancing user experiences and optimizing online platforms for better performance.
                 </p>
               </div>
             </div>
@@ -93,9 +91,9 @@ function Services() {
               <div>
                 <span className="num">03</span>
                 <div>
-                  <span className="sub-title main-color mb-10">Web Design</span>
+                  <span className="sub-title main-color mb-10">Alvicreative</span>
                   <h2>
-                    SEO / <span className="fw-200">Marketing</span>
+                    WEB / <span className="fw-200">DESIGN</span>
                   </h2>
                 </div>
               </div>
@@ -103,8 +101,7 @@ function Services() {
             <div className="col-lg-4">
               <div className="text md-mb80">
                 <p>
-                  We help our client suceed by creating identities, digital
-                  experiences, and printmaterials that communicate clearly
+                I developed web solutions and created graphic designs that helped businesses establish a strong online presence and visually communicate their brand identity.
                 </p>
               </div>
             </div>
