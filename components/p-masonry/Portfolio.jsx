@@ -44,7 +44,7 @@ function Portfolio() {
                 <div className="cont inline d-flex align-items-center">
                   <div>
                     <h5>
-                      <a href="/project-details">Nice guy with a smile</a>
+                      <a href="/project-details">Amazing Poster</a>
                     </h5>
                   </div>
                   <div className="ml-auto">
