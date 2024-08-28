@@ -77,21 +77,20 @@ function Portfolio() {
                 <div className="cont">
                   <div>
                     <div className="mb-15">
-                      <a href="/" className="tag">
-                        Figma
+                      <a href="https://sokonet.co.ke/" className="tag">
+                        Next JS
                       </a>
-                      <a href="/" className="tag">
-                        Web Design
+                      <a href="https://sokonet.co.ke/" className="tag">
+                        Web Development
                       </a>
                     </div>
-                    <h4>Cutter mobile app</h4>
+                    <h4>Sokonet</h4>
                   </div>
                   <div>
                     <p>
-                      I am a professional web designer and developer. I can help
-                      you to build your website.
+                      Built a shop web application for users to list the items and also buy from other users by contacting them on various products.
                     </p>
-                    <a href="/project-details" className="underline mt-15">
+                    <a href="https://sokonet.co.ke/" className="underline mt-15">
                       <span className="text main-color sub-title">
                         View Details <i className="ti-arrow-top-right"></i>
                       </span>
