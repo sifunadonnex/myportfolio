@@ -145,21 +145,20 @@ function Portfolio() {
                 <div className="cont">
                   <div>
                     <div className="mb-15">
-                      <a href="/" className="tag">
+                      <a href="https://mbuzi24.vercel.app/" className="tag">
                         Figma
                       </a>
-                      <a href="/" className="tag">
+                      <a href="https://mbuzi24.vercel.app/" className="tag">
                         Web Design
                       </a>
                     </div>
-                    <h4>Cutter mobile app</h4>
+                    <h4>Mbuzi24</h4>
                   </div>
                   <div>
                     <p>
-                      I am a professional web designer and developer. I can help
-                      you to build your website.
+                      Was involved in creating of the Mbuzi24 site that is a platform to get meat and poultry products among other butchery accompaniments.
                     </p>
-                    <a href="/project-details" className="underline mt-15">
+                    <a href="https://mbuzi24.vercel.app/" className="underline mt-15">
                       <span className="text main-color sub-title">
                         View Details <i className="ti-arrow-top-right"></i>
                       </span>
