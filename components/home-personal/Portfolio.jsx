@@ -111,21 +111,20 @@ function Portfolio() {
                 <div className="cont">
                   <div>
                     <div className="mb-15">
-                      <a href="/" className="tag">
-                        Figma
+                      <a href="https://www.mmuchristianunion.org/" className="tag">
+                        Framer
                       </a>
-                      <a href="/" className="tag">
+                      <a href="https://www.mmuchristianunion.org/" className="tag">
                         Web Design
                       </a>
                     </div>
-                    <h4>Cutter mobile app</h4>
+                    <h4>MMU CU</h4>
                   </div>
                   <div>
                     <p>
-                      I am a professional web designer and developer. I can help
-                      you to build your website.
+                      I was involved in developing of the oficial website for the Multimedia University Christian Union. Realy loved the work of the Lord.
                     </p>
-                    <a href="/project-details" className="underline mt-15">
+                    <a href="https://www.mmuchristianunion.org/" className="underline mt-15">
                       <span className="text main-color sub-title">
                         View Details <i className="ti-arrow-top-right"></i>
                       </span>
