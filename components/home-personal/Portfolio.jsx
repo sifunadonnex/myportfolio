@@ -213,21 +213,20 @@ function Portfolio() {
                 <div className="cont">
                   <div>
                     <div className="mb-15">
-                      <a href="/" className="tag">
-                        Figma
+                      <a href="https://www.postermywall.com/index.php/d/sifuna-donnex" className="tag">
+                        Postermywall
                       </a>
-                      <a href="/" className="tag">
-                        Web Design
+                      <a href="https://www.postermywall.com/index.php/d/sifuna-donnex" className="tag">
+                        Design
                       </a>
                     </div>
-                    <h4>Cutter mobile app</h4>
+                    <h4>Graphic Designs</h4>
                   </div>
                   <div>
                     <p>
-                    I am a professional web designer and developer. I can help
-                    you to build your website.
+                    Here is my Postermywall page, I have created numerous grahic designs for you to have a look. Design is by love at heart.
                     </p>
-                    <a href="/project-details" className="underline mt-15">
+                    <a href="https://www.postermywall.com/index.php/d/sifuna-donnex" className="underline mt-15">
                       <span className="text main-color sub-title">
                         View Details <i className="ti-arrow-top-right"></i>
                       </span>
